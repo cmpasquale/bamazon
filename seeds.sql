@@ -1,0 +1,10 @@
+INSERT INTO products ( product_name, department_name, price, stock_quantity) VALUES ('vans','clothing', 49.99, 75), 
+('bath robe', 'clothing', 15.00,  275),
+('pillows', 'housewares', 13.99,  5),
+('towels','housewares', 9.99,  150),
+('end table','furniture', 159.99, 225),
+('dish soap', 'cleaning supplies',  4.99, 75000),
+('mascara', 'beauty', 39.99, 124920),
+('toothpaste', 'toiletries', 7.99, 102934),
+('socks', 'clothing', 2.99,  5555),
+('stuffed animal', 'toys',  9.99, 743495);

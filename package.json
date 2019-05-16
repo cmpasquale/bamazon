@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A command line app that  * Displays what items are in stock and their informtation (price) *",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmpasquale/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmpasquale/bamazon/issues"
+  },
+  "homepage": "https://github.com/cmpasquale/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "express": "^4.16.4",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.16.0"
+  }
+}
